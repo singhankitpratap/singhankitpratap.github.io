@@ -4,7 +4,7 @@ icon: fas fa-flask
 order: 1
 ---
 ## Publications
-- **AP Singh** and N Vaswani, Secure and Fast Federated Few-Shot Learning \
+- **AP Singh** and N Vaswani, Adversary Resilient and Fast Federated Few-Shot Learning \
   **International Conference on Machine Learning 2024 (ICML 2024)**, *in press* July 2024.
 - **AP Singh** and N Vaswani, Byzantine-Resilient Federated Principal Subspace Estimation \
   **IEEE International Symposium on Information Theory (ISIT 2024)**, *in press* July 2024.
