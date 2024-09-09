@@ -3,6 +3,11 @@ title: Research
 icon: fas fa-flask
 order: 1
 ---
+## Research Projects
+- Fast Federated Few-Shot Learning
+- Resilient Federated Principal Subspace Estimation
+- Federated Reinforcement Learning (RL)
+
 ## Publications
 ### Journal papers
 - **AP Singh** and N Vaswani, [Byzantine-Resilient Federated PCA and Low Rank Column-wise Sensing](https://ieeexplore.ieee.org/abstract/document/10643192) \
