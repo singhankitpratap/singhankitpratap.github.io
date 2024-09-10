@@ -24,3 +24,7 @@ Graduate Coursework at Iowa State University
 
 ## Courses in Department of Computer Science
 - COMS 3110: Design and Analysis of Algorithms
+
+## Certifications
+- [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/UQBN58LY73YP)
+- [TensorFlow 2 for Deep Learning](https://www.coursera.org/account/accomplishments/specialization/LAVQBZKE7Q5E)
