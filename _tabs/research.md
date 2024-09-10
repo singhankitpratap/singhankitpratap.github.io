@@ -4,9 +4,17 @@ icon: fas fa-flask
 order: 1
 ---
 ## Research Projects
-- Fast Federated Few-Shot Learning
-- Resilient Federated Principal Subspace Estimation
-- Federated Reinforcement Learning (RL)
+- Fast Federated Few-Shot Learning| **PyTorch, Docker, AWS**| [Source code](https://github.com/singhankitpratap/Federated-ByzaltGDmin.git)
+  
+A **Byzantine-resilient** federated algorithm, AltGDmin, for low-dimensional representation learning a.k.a. Few-Shot Learning. It is **communication-efficient, robust to adversarial attacks**, and guarantees convergence. Deployed on **AWS** using **Docker Swarm**, the model achieves high accuracy using `5%` of the data compared to the problem dimension. 
+
+- Resilient Federated Principal Subspace Estimation| **PyTorch**| [Source code](https://github.com/singhankitpratap/subspace_median.git)
+
+A novel technique, **Subspace Median**, along with a **Python package** compatible with **PyTorch**, enabling **Principal Component Analysis (PCA)** on distributed or federated datasets across multiple devices, even in the presence of up to `50%` corrupt or erroneous devices.
+
+- Federated Reinforcement Learning (RL)| **PyTorch, Open AI’s Gym**| [Source code](https://github.com/singhankitpratap/fed_reinforce.git)
+  
+A federated learning framework to efficiently manage data samples in dynamic systems like the **Open AI’s CartPole-v1 environment**, utilizing **policy gradient methods**. This work was developed using **PyTorch, Open AI’s Gym library**. Integrated principles of algorithm optimization and control theory were used to provide convergence guarantees.
 
 ## Publications
 ### Journal papers
