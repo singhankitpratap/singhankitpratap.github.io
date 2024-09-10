@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Courses & Certifications
 icon: fas fa-book-reader
 order: 4
 ---
