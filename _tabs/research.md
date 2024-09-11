@@ -8,7 +8,7 @@ order: 1
   
 A **Byzantine-resilient** federated algorithm, AltGDmin, for low-dimensional representation learning a.k.a. Few-Shot Learning. It is **communication-efficient, robust to adversarial attacks**, and guarantees convergence. Deployed on **AWS** using **Docker Swarm**, the model achieves high accuracy using `5%` of the data compared to the problem dimension. 
 
-- **Resilient Federated Principal Subspace Estimation**| **PyTorch**| [Source code](https://github.com/singhankitpratap/subspace_median.git)| Relevant paper: [C3](#conference-papers)
+- [**Resilient Federated Principal Subspace Estimation**](https://singhankitpratap.github.io/sap_files/isit_pres.pdf)| **PyTorch**| [Source code](https://github.com/singhankitpratap/subspace_median.git)| Relevant paper: [C3](#conference-papers)
 
 A novel technique, **Subspace Median**, along with a **Python package** compatible with **PyTorch**, enabling **Principal Component Analysis (PCA)** on distributed or federated datasets across multiple devices, even in the presence of up to `50%` corrupt or erroneous devices.
 
@@ -23,7 +23,7 @@ A federated learning framework to efficiently manage data samples in dynamic sys
 
 ### Conference papers
 - [C4] **AP Singh** and N Vaswani, [Byzantine Resilient and Fast Federated Few-Shot Learning](https://proceedings.mlr.press/v235/singh24f.html) \
-  **International Conference on Machine Learning 2024 (ICML 2024)**, July 2024.
+  **International Conference on Machine Learning 2024 (ICML 2024)**, July 2024.\
 - [C3] **AP Singh** and N Vaswani, [Byzantine-Resilient Federated Principal Subspace Estimation](https://ieeexplore.ieee.org/abstract/document/10619161) \
   **IEEE International Symposium on Information Theory (ISIT 2024)**, July 2024.
 - [C2] **AP Singh** and N Vaswani, [Byzantine-resilient Federated Low-Rank Column-wise Compressive Sensing](https://ieeexplore.ieee.org/abstract/document/10313492) \
