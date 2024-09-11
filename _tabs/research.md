@@ -4,7 +4,7 @@ icon: fas fa-flask
 order: 1
 ---
 ## Research Projects
-- **Fast Federated Few-Shot Learning**| **PyTorch, Docker, AWS**| [Source code](https://github.com/singhankitpratap/Federated-ByzaltGDmin.git)| Relevant paper: [C4](#conference-papers), [J1](#journal-papers)
+- [**Fast Federated Few-Shot Learning**]({{ site_url }}/sap_files/icml_pres.pdf)| **PyTorch, Docker, AWS**| [Source code](https://github.com/singhankitpratap/Federated-ByzaltGDmin.git)| Relevant paper: [C4](#conference-papers), [J1](#journal-papers)
   
 A **Byzantine-resilient** federated algorithm, AltGDmin, for low-dimensional representation learning a.k.a. Few-Shot Learning. It is **communication-efficient, robust to adversarial attacks**, and guarantees convergence. Deployed on **AWS** using **Docker Swarm**, the model achieves high accuracy using `5%` of the data compared to the problem dimension. 
 
