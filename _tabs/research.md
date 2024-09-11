@@ -24,9 +24,13 @@ A federated learning framework to efficiently manage data samples in dynamic sys
 ### Conference papers
 - [C4] **AP Singh** and N Vaswani, [Byzantine Resilient and Fast Federated Few-Shot Learning](https://proceedings.mlr.press/v235/singh24f.html) \
   **International Conference on Machine Learning 2024 (ICML 2024)**, July 2024.\
+  [Presentation](https://singhankitpratap.github.io/sap_files/icml_pres.pdf)\
+  [Quick View](https://singhankitpratap.github.io/sap_files/ICML.pdf)
 - [C3] **AP Singh** and N Vaswani, [Byzantine-Resilient Federated Principal Subspace Estimation](https://ieeexplore.ieee.org/abstract/document/10619161) \
-  **IEEE International Symposium on Information Theory (ISIT 2024)**, July 2024.
+  **IEEE International Symposium on Information Theory (ISIT 2024)**, July 2024.\
+  [Presentation](https://singhankitpratap.github.io/sap_files/isit_pres.pdf)
 - [C2] **AP Singh** and N Vaswani, [Byzantine-resilient Federated Low-Rank Column-wise Compressive Sensing](https://ieeexplore.ieee.org/abstract/document/10313492) \
-  **IEEE Annual Allerton Conference on Communication, Control, and Computing**, September 2023.
+  **IEEE Annual Allerton Conference on Communication, Control, and Computing**, September 2023.\
+  [Presentation](https://singhankitpratap.github.io/sap_files/allerton_pres.pdf)
 - [C1] **AP Singh** and R Tali, [Byzantine Resilient Federated REINFORCE (GM-FedREINFORCE)](https://ieeexplore.ieee.org/abstract/document/10460041) \
   **IEEE International Conference on Machine Learning and Applications (ICMLA 2023)**, December 2023.
