@@ -12,7 +12,7 @@ A **Byzantine-resilient** federated algorithm, AltGDmin, for low-dimensional rep
 
 A novel technique, **Subspace Median**, along with a **Python package** compatible with **PyTorch**, enabling **Principal Component Analysis (PCA)** on distributed or federated datasets across multiple devices, even in the presence of up to `50%` corrupt or erroneous devices.
 
-- **Federated Reinforcement Learning (RL)**| **PyTorch, Open AI’s Gym**| [Source code](https://github.com/singhankitpratap/fed_reinforce.git)| Relevant paper: [C1](#conference-papers)
+- [**Federated Reinforcement Learning (RL)**](https://singhankitpratap.github.io/sap_files/fedreinf.pdf)| **PyTorch, Open AI’s Gym**| [Source code](https://github.com/singhankitpratap/fed_reinforce.git)| Relevant paper: [C1](#conference-papers)
   
 A federated learning framework to efficiently manage data samples in dynamic systems like the **Open AI’s CartPole-v1 environment**, utilizing **policy gradient methods**. This work was developed using **PyTorch, Open AI’s Gym library**. Integrated principles of algorithm optimization and control theory were used to provide convergence guarantees.
 
@@ -33,4 +33,5 @@ A federated learning framework to efficiently manage data samples in dynamic sys
   **IEEE Annual Allerton Conference on Communication, Control, and Computing**, September 2023.\
   [Presentation](https://singhankitpratap.github.io/sap_files/allerton_pres.pdf)
 - [C1] **AP Singh** and R Tali, [Byzantine Resilient Federated REINFORCE (GM-FedREINFORCE)](https://ieeexplore.ieee.org/abstract/document/10460041) \
-  **IEEE International Conference on Machine Learning and Applications (ICMLA 2023)**, December 2023.
+  **IEEE International Conference on Machine Learning and Applications (ICMLA 2023)**, December 2023.\
+  [Quick View](https://singhankitpratap.github.io/sap_files/fedreinf.pdf)
