@@ -35,3 +35,7 @@ A federated learning framework to efficiently manage data samples in dynamic sys
 - [C1] **AP Singh** and R Tali, [Byzantine Resilient Federated REINFORCE (GM-FedREINFORCE)](https://ieeexplore.ieee.org/abstract/document/10460041) \
   **IEEE International Conference on Machine Learning and Applications (ICMLA 2023)**, December 2023.\
   [Quick View](https://singhankitpratap.github.io/sap_files/fedreinf.pdf)
+
+## Reviewing service
+- International Conference on Artificial Intelligence and Statistics (AISTATS) (2024).
+- *IEEE* International Symposium on Information Theory (ISIT) (2024).
