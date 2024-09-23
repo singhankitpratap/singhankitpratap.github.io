@@ -14,4 +14,5 @@ The following is the list of courses for which I have served as a teaching assis
 
 ## Spring 2024
 - [EE 4250: Machine learning: A Signal Processing Perspective](https://catalog.iastate.edu/azcourses/e_e/)
+  
   [**Teaching Highlights: PCA, Autoencoders, and Variational Autoencoders**](https://singhankitpratap.github.io/sap_files/var_aut.pdf)
