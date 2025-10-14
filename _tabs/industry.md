@@ -13,7 +13,7 @@ As part of the **AI research team**, I am developing a **multi-table Q&A data ge
 **Technologies:** GRPO, Hugging Face Transformers, LangChain, Python, PyTorch, pandas
 
 
-## Machine Learning Researcher, International Finance Corporation (World Bank)
+## ML Researcher, International Finance Corporation (World Bank)
 Washington, D.C. | 06/2025 – 09/2025  
 
 
