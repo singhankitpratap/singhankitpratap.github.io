@@ -4,7 +4,7 @@ icon: fas fa-flask
 order: 1
 ---
 ## Research Projects
-- [**Secure Algorithms for Vertically Federated Multi-Task Representation Learning**](https://singhankitpratap.github.io/sap_files/isit_pres25.pdf)| **Byzantine robustness, Low Rank Matrix Recovery, Multi-Task Representation Learning**| Relevant paper: [C5, C6](#conference-papers)
+- [**Secure Algorithms for Vertically Federated Multi-Task Representation Learning**](https://singhankitpratap.github.io/sap_files/isit_pres25.pdf)| **Byzantine robustness, Accelerated Pruning for Edge Inference, Multi-Task Representation Learning**| Relevant paper: [C5, C6](#conference-papers)
   
 Imagine you want to predict lung disease using chest X-rays collected from different hospitals. To protect patient privacy, each hospital trains a model locally and only shares updates. However, some hospitals might use unreliable or compromised systems that send incorrect updates. These issues, known as Byzantine failures, can harm the overall learning process.
 
