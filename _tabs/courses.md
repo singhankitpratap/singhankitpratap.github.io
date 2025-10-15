@@ -28,3 +28,4 @@ Graduate Coursework at Iowa State University
 ## Certifications
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/UQBN58LY73YP)
 - [TensorFlow 2 for Deep Learning](https://www.coursera.org/account/accomplishments/specialization/LAVQBZKE7Q5E)
+- [Federated Fine-tuning of LLMs with Private Data](https://learn.deeplearning.ai/accomplishments/6d197b74-f578-45af-b5b3-37ee69fb9133?usp=sharing)
