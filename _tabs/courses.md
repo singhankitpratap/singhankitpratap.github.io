@@ -6,7 +6,7 @@ order: 4
 \
 Graduate Coursework at Iowa State University
 
-## Courses in Department of Electrical and Computer Engineering
+## [Courses in Department of Electrical and Computer Engineering](https://catalog.iastate.edu/azcourses/e_e/)
 - EE 5260: Deep Learning
 - EE 5290: Data Analytics
 - EE 6230X: High-Dimensional Probability and Linear Algebra for Machine Learning
@@ -14,15 +14,15 @@ Graduate Coursework at Iowa State University
 - EE 5710: Introduction to Convex Optimization
 - EE 5900I: Introduction to Game Theory and Reinforcement Learning
 
-## Courses in Department of Mathematics
+## [Courses in Department of Mathematics](https://catalog.iastate.edu/azcourses/math/)
 - MATH 5070: Applied Linear Algebra
 - MATH 5100: Linear Algebra
 
-## Courses in Department of Statistics
+## [Courses in Department of Statistics](https://catalog.iastate.edu/azcourses/stat/)
 - STAT 5420: Theory of Probability and Statistics I
 - STAT 5430: Theory of Probability and Statistics II
 
-## Courses in Department of Computer Science
+## [Courses in Department of Computer Science](https://catalog.iastate.edu/azcourses/com_s/)
 - COMS 3110: Design and Analysis of Algorithms
 
 ## Certifications
